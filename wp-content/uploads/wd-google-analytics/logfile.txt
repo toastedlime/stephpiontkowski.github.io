@@ -1,0 +1,18 @@
+Could not json decode the token----constructor function
+Could not json decode the token----constructor function
+Could not json decode the token----constructor function
+(list) missing required param: 'webPropertyId'----get_management_filters function
+Error calling GET https://www.googleapis.com/analytics/v3/data/ga?ids=ga%3A138518909&start-date=2017-01-03&end-date=2017-02-01&metrics=ga%3Ausers%2Cga%3Asessions%2Cga%3ApercentNewSessions%2Cga%3AbounceRate%2Cga%3Apageviews%2Cga%3AavgSessionDuration%2Cga%3ApageviewsPerSession&dimensions=ga%3Adate&sort=ga%3Adate&filters=ga%3ApagePath%3D%7EIs+it+a+Mudroom%2C+a+Pantry+or+a+Shoebox%3F: (400) Invalid value 'ga:pagePath=~Is it a Mudroom, a Pantry or a Shoebox?' for filters parameter.----get_post_page_data function
+HTTP Error: Unable to connect: 'fopen(https://accounts.google.com/o/oauth2/token): failed to open stream: Connection timed out'----constructor function
+{
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}----get_data function--->2019-07-20 05:32:00
+{
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}----get_data function--->2019-07-20 05:57:51
+{
+  "error": "invalid_grant",
+  "error_description": "Bad Request"
+}----get_data function--->2019-07-20 15:11:38

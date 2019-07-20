@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>design &#8211; STEPH PIONTKOWSKI INTERIORS</title>
+	<atom:link href="/tag/design/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Jul 2019 15:06:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">54451594</site>	<item>
+		<title>Challenges in Rental Design</title>
+		<link>/challenges-rental-design/</link>
+		<comments>/challenges-rental-design/#respond</comments>
+		<pubDate>Mon, 21 May 2018 19:24:50 +0000</pubDate>
+		<dc:creator><![CDATA[steph]]></dc:creator>
+				<category><![CDATA[Interior Design]]></category>
+		<category><![CDATA[challenges]]></category>
+		<category><![CDATA[decor]]></category>
+		<category><![CDATA[design]]></category>
+		<category><![CDATA[home decor]]></category>
+		<category><![CDATA[rental]]></category>
+		<category><![CDATA[updates]]></category>
+
+		<guid isPermaLink="false">/?p=1408</guid>
+		<description><![CDATA[<p>Rental design can be costly if you move often. We&#8217;ve been in our house for almost two years now but I haven&#8217;t done much to make it ours. Our old furniture doesn&#8217;t work in here but we hesitate to buy all new stuff for a temporary home. However&#8230;..temporary in this case might mean at least a few more years (thanks to the overpriced Southern California real estate market). We also &#8230; </p>
+<p>The post <a rel="nofollow" href="/challenges-rental-design/">Challenges in Rental Design</a> appeared first on <a rel="nofollow" href="/">STEPH PIONTKOWSKI INTERIORS</a>.</p>
+]]></description>
+		<wfw:commentRss>/challenges-rental-design/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1408</post-id>	</item>
+	</channel>
+</rss>

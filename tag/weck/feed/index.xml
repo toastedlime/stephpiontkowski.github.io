@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>weck &#8211; STEPH PIONTKOWSKI INTERIORS</title>
+	<atom:link href="/tag/weck/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Sat, 20 Jul 2019 15:06:17 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.9.10</generator>
+<site xmlns="com-wordpress:feed-additions:1">54451594</site>	<item>
+		<title>Tuesday Tip: Decanting</title>
+		<link>/tuesday-tip/</link>
+		<comments>/tuesday-tip/#respond</comments>
+		<pubDate>Tue, 05 Sep 2017 14:00:56 +0000</pubDate>
+		<dc:creator><![CDATA[steph]]></dc:creator>
+				<category><![CDATA[Bathrooms]]></category>
+		<category><![CDATA[Interior Design]]></category>
+		<category><![CDATA[Kitchens]]></category>
+		<category><![CDATA[Lifestyle]]></category>
+		<category><![CDATA[Tuesday Tip]]></category>
+		<category><![CDATA[bar]]></category>
+		<category><![CDATA[crate & barrel]]></category>
+		<category><![CDATA[crate and barrel]]></category>
+		<category><![CDATA[decant]]></category>
+		<category><![CDATA[decanter]]></category>
+		<category><![CDATA[decantor]]></category>
+		<category><![CDATA[display]]></category>
+		<category><![CDATA[homegoods]]></category>
+		<category><![CDATA[le parfait]]></category>
+		<category><![CDATA[pantry]]></category>
+		<category><![CDATA[pottery barn]]></category>
+		<category><![CDATA[sur la table]]></category>
+		<category><![CDATA[vintage]]></category>
+		<category><![CDATA[weck]]></category>
+
+		<guid isPermaLink="false">/?p=1095</guid>
+		<description><![CDATA[<p>Sometimes we have to live with things that are unsightly but necessary. Not everyone cares about these things but I definitely do. I really hate ugly packaging and I have a confession&#8230;.I decant. Everything. Well, a lot of things at least. When you decant things you have a chance to take something ugly and make it a little more attractive. Here&#8217;s a few examples of how I do that. This &#8230; </p>
+<p>The post <a rel="nofollow" href="/tuesday-tip/">Tuesday Tip: Decanting</a> appeared first on <a rel="nofollow" href="/">STEPH PIONTKOWSKI INTERIORS</a>.</p>
+]]></description>
+		<wfw:commentRss>/tuesday-tip/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+	<post-id xmlns="com-wordpress:feed-additions:1">1095</post-id>	</item>
+	</channel>
+</rss>
